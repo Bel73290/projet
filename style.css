@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+  }
+
+.connexion{
+    display: flex;
+    justify-content: flex-end;
+    left: 50px;
+}
+
+.T_colis{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    flex-direction: ;
+    padding: 5px;
+    background-color:grey;
+    box-sizing: content-box;
+    width: 30%;
+    border-radius: 5px;
+
+}
